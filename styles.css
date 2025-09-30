@@ -330,7 +330,7 @@ MODAL
     transform: translate(-50%, -50%);
     width: 90%;
     max-width: 1100px;
-    height: 700px;
+    height: 95vh;
     border-radius: 20px;
     overflow:hidden;
     display: flex;
@@ -606,6 +606,7 @@ footer {
 
 .footer__logo--img {
     width: 70px;
+    filter: invert(1)
 }
 
 .footer__social--list {
